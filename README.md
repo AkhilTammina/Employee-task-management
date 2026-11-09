@@ -52,7 +52,4 @@ The backend creates this admin account automatically on first startup.
 - Search and status filtering
 - SQLite persistence
 
-## Notes
-- This is a learning/demo project. Change the JWT secret and demo password before real deployment.
-- The demo UI is designed for local development.
-- To reset the demo database, stop the backend and delete `backend/employee_tasks.db`; it will be recreated on next start.
+
