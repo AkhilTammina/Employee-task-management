@@ -40,8 +40,8 @@ def seed_admin():
 
     # Admin account details
     admin_name = "Akhil"
-    admin_email = "demo@gmail.com"
-    admin_password = "demo123"
+    admin_email = "akhil2ko77@gmail.com"
+    admin_password = "Akhil@2007"
 
     try:
         # Find existing admin account
